@@ -20,7 +20,7 @@ limitations under the License.
 
 # iterSubtract
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Create an [iterator][mdn-iterator-protocol] which performs element-wise subtraction of two or more [iterators][mdn-iterator-protocol].
 
@@ -231,8 +231,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/math-iter-ops-subtract/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/math-iter-ops-subtract?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/math-iter-ops-subtract.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/math-iter-ops-subtract/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
