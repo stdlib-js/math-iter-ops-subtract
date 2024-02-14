@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterSubtract from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-ops-subtract@deno/mod.js';
+import iterSubtract from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-ops-subtract@v0.2.0-deno/mod.js';
 ```
 
 #### iterSubtract( iter0, ...iterator )
@@ -131,7 +131,7 @@ var bool = it.next().done;
 
 ```javascript
 import iterSineWave from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate-iter-sine-wave@deno/mod.js';
-import iterSubtract from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-ops-subtract@deno/mod.js';
+import iterSubtract from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-ops-subtract@v0.2.0-deno/mod.js';
 
 // Create an iterator which generates a sine wave:
 var sine1 = iterSineWave({
